@@ -1,5 +1,5 @@
 # Competicao-WiDS-Datathon-2021
-Ainda está em desenvolvimento o código. A descrição da competição de Data Science:
+A descrição da competição de Data Science:
 "Obter uma compreensão rápida do contexto da saúde geral de um paciente foi particularmente importante durante a pandemia COVID-19, uma vez que profissionais de saúde 
 em todo o mundo lutam com hospitais sobrecarregados de pacientes em estado crítico. As unidades de terapia intensiva (UTIs) muitas vezes não têm históricos médicos 
 verificados para os pacientes que chegam. Um paciente angustiado ou levado confuso ou sem resposta pode não ser capaz de fornecer informações sobre condições crônicas, 
